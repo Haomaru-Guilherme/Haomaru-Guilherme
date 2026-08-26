@@ -5,3 +5,6 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas
 - 💡 Apaixonado por transformar linhas de código em soluções reais
 - 📫 Como me encontrar: haomaruguilherme.a.f@gmail.com
+
+### 💼 Hard Skills
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/html.png" alt="HTML" width="20" />
