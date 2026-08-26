@@ -1,7 +1,7 @@
-# Olá, eu sou o Haomaru Guilherme! 👋
+# Olá, eu sou Haomaru Guilherme! 👋
 
 ### 👨‍💻 Sobre Mim
-- 🚀 Atualmente trabalhando como **[Seu Cargo/Estudante]**
+- 🚀 Atualmente trabalhando como Instrutor de robótica
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas
 - 💡 Apaixonado por transformar linhas de código em soluções reais
 - 📫 Como me encontrar: haomaruguilherme.a.f@gmail.com
@@ -14,7 +14,7 @@
   <tr>
     <td valign="top" width="50%">
       <h4>Frontend</h4>
-      <img src="https://shields.io" alt="HTML5" />
+      <img src="[https://shields.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz25quXxAQQkaZHnRf-76KMTdp7uDX4VtBeX00o_a9yA&s=10)" alt="HTML5" />
       <img src="https://shields.io" alt="CSS3" />
       <img src="https://shields.io" alt="JavaScript" />
       <img src="https://shields.io" alt="React" />
