@@ -9,6 +9,7 @@
 ### 💼 Hard Skills
 <table>
     <td>
+        <h4>HardSkills</h4>
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/html.png" alt="HTML" width="20">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/css.png" alt="CSS" width="20">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="JavaScript" width="20">
