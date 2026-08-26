@@ -7,4 +7,7 @@
 - 📫 Como me encontrar: haomaruguilherme.a.f@gmail.com
 
 ### 💼 Hard Skills
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/html.png" alt="HTML" width="20" />
+  HTML
+</p>
